@@ -1,0 +1,29 @@
+#root{
+   background-color:white;
+   margin:50px;
+  }
+h1 {
+color: rgb(27, 7, 7);
+/* border:3px #f2f4f5; */
+font-family:Tahoma;
+font-size:150%;
+background-color: whitesmoke;
+border-radius: 10px 10px 10px 10px;
+box-shadow:3px 9px 17px 6px rgb(206, 196, 196);
+padding:10px;
+
+text-align: center;
+}
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  $font-stack: Helvetica, sans-serif;
+  $primary-color: #333;
+  
+  body {
+    font: 100% $font-stack;
+    color: $primary-color;
+          }}
