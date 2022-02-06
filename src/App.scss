@@ -1,0 +1,40 @@
+
+body {
+  margin: 10;
+  text-align: center;
+  
+}
+
+.light-theme {
+  background-color: #fff;
+  color: #444444;
+  
+}
+.dark-theme {
+  background-color: #1f1b24;
+  color: #f8f8f8;
+}
+.dark-theme nav {
+  background-color: #332940;
+}
+
+nav {
+  display: flex;
+  text-align: center;
+  background-color: #cec8dd;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.content {
+  padding: 0.5em;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  height: 8h;
+}
+
+.button-container {
+  display: flex;
+  margin: auto;
+}
